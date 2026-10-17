@@ -2,7 +2,7 @@ name: Qullamaggie Daily Scanner
 
 on:
   schedule:
-    - cron: '30 20 * * 2-6'
+    - cron: '30 20 * * 1-5'
   workflow_dispatch:
 
 jobs:
